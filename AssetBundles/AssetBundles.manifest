@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1948821666
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/wall.unity
+      Dependencies: {}
